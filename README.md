@@ -99,6 +99,8 @@ https://github.com/user-attachments/assets/87d701ca-05ce-472a-879e-ded30e0a3818
 
 https://github.com/user-attachments/assets/499d3a54-dfa1-41db-a089-93b842844c4c
 
+---
+
 ### Case 10
 - **Source:** [@blizaine](https://x.com/blizaine/status/1924920801024692458)
 - **Prompt:** Cinematic action shot of a man running through a dystopian city, as he shoots hordes of zombies. Action shot, high speed.  He yells “ah!! eat led zombie scum!!” 
@@ -107,6 +109,15 @@ https://github.com/user-attachments/assets/499d3a54-dfa1-41db-a089-93b842844c4c
 
 https://github.com/user-attachments/assets/6353904a-a206-4790-8054-69df9eeddfe9
 
+---
+
+### Case 11
+- **Source:** [@blizaine](https://x.com/blizaine/status/1924915411876720907)
+- **Prompt:**  A Pixar style animation with two characters. A male chunk of dirt creature standing with a female fireball creature. The male dirt guy say “wow! You’re hot today!” The female says back “then why do you treat me like dirt?”
+- **Video:** 
+
+
+https://github.com/user-attachments/assets/5c67ec2c-b8cf-4f1c-bdfc-3f933291cc79
 
 
 
