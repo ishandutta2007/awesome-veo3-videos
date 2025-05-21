@@ -66,4 +66,14 @@ https://github.com/user-attachments/assets/fc1a76f9-6d43-44c9-a458-69489a1b1bbe
 
 https://github.com/user-attachments/assets/3bd64177-c3ca-4fc4-aaf6-b04449ce7479
 
+---
+
+
+### Case 7
+- **Source:** [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1925052387552829876)
+- **Prompt:** "A high-energy rap battle between Isaac Newton and Albert Einstein on a futuristic sci-fi stage. The camera alternates between close-ups and dramatic wide shots as they diss each other with sharp lyrics. Newton, in a classic 17th-century outfit, raps with a British accent about gravity and apples. Einstein, with wild hair and a German accent, fires back about relativity and space-time. Their lip-sync is perfectly timed to the beat, and their facial expressions are intense and animated. The background pulses with neon lights and holographic equations, reacting to the rhythm. The crowd of AI-generated scientists cheers them on in sync with the music. It feels like a rap battle from another dimension."
+- **Video:** 
+
+https://github.com/user-attachments/assets/a7971f81-cce6-41bc-83c3-0591443ef40f
+
 
