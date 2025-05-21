@@ -77,3 +77,25 @@ https://github.com/user-attachments/assets/3bd64177-c3ca-4fc4-aaf6-b04449ce7479
 https://github.com/user-attachments/assets/a7971f81-cce6-41bc-83c3-0591443ef40f
 
 
+---
+
+
+### Case 8
+- **Source:** [@mattshumer_](https://x.com/mattshumer_/status/1925027354755109311)
+- **Prompt:** "Streamer getting a victory royale with just his pickaxe"
+- **Video:** 
+
+
+https://github.com/user-attachments/assets/87d701ca-05ce-472a-879e-ded30e0a3818
+
+---
+
+
+### Case 9
+- **Source:** [@fofrAI](https://x.com/fofrAI/status/1924919997161234666)
+- **Prompt:** "A man is running through a beautiful summer park at dawn, he is out of breath, he slows and stops, looks at the camera and says, while panting, "Run AI with an API. Use Replicate", then he carries on running. Then "Replicate" text fades into view at the end"
+- **Video:** 
+
+
+https://github.com/user-attachments/assets/499d3a54-dfa1-41db-a089-93b842844c4c
+
