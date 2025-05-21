@@ -4,16 +4,20 @@
 This document showcases a curated collection of videos generated using Veo3. Each example includes the source, the prompt used for generation, and the resulting video. The aim is to provide inspiration and reference for those interested in leveraging Veo3 for creative video generation.
 
 ## Table of Contents
-1. [Case 1: Cityscape Animation](#case-1-cityscape-animation)
+1. [Case 1](#case-1)
 2. [Case 2: Nature Timelapse](#case-2-nature-timelapse)
 3. [Case 3: Futuristic Vehicle](#case-3-futuristic-vehicle)
 
 ## Cases
 
-### Case 1: Cityscape Animation
-- **Source:** Veo3 Official Demo
-- **Prompt:** "A bustling city at night with neon lights and moving traffic, animated in a cinematic style."
-- **Video:** [Watch Video](https://example.com/cityscape-animation.mp4)
+### Case 1
+- **Source:** [@nmatares](https://x.com/nmatares/status/1924931844879134804)
+- **Prompt:** "The camera follows a dachshund running through a living room and out of an open front door and onto a porch. It stands on the top stair overlooking the neighborhood as an ice cream truck drives by."
+- **Video:** 
+
+https://github.com/user-attachments/assets/571ce7d9-28b1-475c-8a4b-a725a10dfa83
+
+
 
 ---
 
