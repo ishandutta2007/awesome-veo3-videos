@@ -21,10 +21,16 @@ https://github.com/user-attachments/assets/571ce7d9-28b1-475c-8a4b-a725a10dfa83
 
 ---
 
-### Case 2: Nature Timelapse
-- **Source:** User Submission by Alice
-- **Prompt:** "A timelapse of a forest transitioning from day to night, with dynamic lighting and wildlife."
-- **Video:** [Watch Video](https://example.com/nature-timelapse.mp4)
+### Case 2
+- **Source:** [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1925074523768115281)
+- **Prompt:** "A dynamic camera glides through a miniature LEGO world, where an epic adventure unfolds. All sound effects—footsteps, explosions, cars, dragons—are created using mouth sounds by a single AI-generated voice artist.
+As each sound is made, the visuals instantly respond: LEGO characters jump into action, cars race, spaceships take off, volcanoes erupt. The journey moves through LEGO-built environments—city streets, underwater ruins, space stations, and lava lairs.
+The video is fast-paced, playful, and visually rich, like a blend between The LEGO Movie and next-gen AI storytelling. The sound-to-visual sync creates a magical, toy-driven universe where imagination controls reality."
+- **Video:** 
+
+https://github.com/user-attachments/assets/fe766022-6c82-4c01-8c88-fa46e573a324
+
+
 
 ---
 
