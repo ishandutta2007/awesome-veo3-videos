@@ -3,11 +3,6 @@
 ## Introduction
 This document showcases a curated collection of videos generated using Veo3. Each example includes the source, the prompt used for generation, and the resulting video. The aim is to provide inspiration and reference for those interested in leveraging Veo3 for creative video generation.
 
-## Table of Contents
-1. [Case 1](#case-1)
-2. [Case 2: Nature Timelapse](#case-2-nature-timelapse)
-3. [Case 3: Futuristic Vehicle](#case-3-futuristic-vehicle)
-
 ## Cases
 
 ### Case 1
@@ -34,9 +29,22 @@ https://github.com/user-attachments/assets/fe766022-6c82-4c01-8c88-fa46e573a324
 
 ---
 
-### Case 3: Futuristic Vehicle
-- **Source:** Veo3 Community Gallery
-- **Prompt:** "A futuristic flying car speeding through a sci-fi cityscape, with detailed reflections and motion blur."
-- **Video:** [Watch Video](https://example.com/futuristic-vehicle.mp4)
+### Case 3
+- **Source:** [@fofrAI](https://x.com/fofrAI/status/1924924738494669011)
+- **Prompt:** "a man doing stand up comedy in a small venue tells a joke (include the joke in the dialogue)"
+- **Video:** 
+
+https://github.com/user-attachments/assets/94932749-cf4c-4b8c-a6f5-4b0165aac0be
+
+---
+
+### Case 4
+- **Source:** [@CitizenPlain](https://x.com/CitizenPlain/status/1924936771411853668)
+- **Prompt:** "A dinosaur with a white fedora and a Hawaiian shirt playing an acoustic guitar on stage at a small waterside bar in Puerto Rico. The dinosaur is singing about how thing used to be in the Mesozoic Era. People are clapping and laughing.
+The video is fast-paced, playful, and visually rich, like a blend between The LEGO Movie and next-gen AI storytelling. The sound-to-visual sync creates a magical, toy-driven universe where imagination controls reality."
+- **Video:** 
+
+https://github.com/user-attachments/assets/15742a7b-2b50-4d4d-b99d-63e75e8fc086
+
 
 
