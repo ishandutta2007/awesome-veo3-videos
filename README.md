@@ -99,3 +99,14 @@ https://github.com/user-attachments/assets/87d701ca-05ce-472a-879e-ded30e0a3818
 
 https://github.com/user-attachments/assets/499d3a54-dfa1-41db-a089-93b842844c4c
 
+### Case 10
+- **Source:** [@blizaine](https://x.com/blizaine/status/1924920801024692458)
+- **Prompt:** Cinematic action shot of a man running through a dystopian city, as he shoots hordes of zombies. Action shot, high speed.  He yells “ah!! eat led zombie scum!!” 
+- **Video:** 
+
+
+https://github.com/user-attachments/assets/6353904a-a206-4790-8054-69df9eeddfe9
+
+
+
+
