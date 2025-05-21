@@ -119,5 +119,14 @@ https://github.com/user-attachments/assets/6353904a-a206-4790-8054-69df9eeddfe9
 
 https://github.com/user-attachments/assets/5c67ec2c-b8cf-4f1c-bdfc-3f933291cc79
 
+---
+
+### Case 11
+- **Source:** [@jerrod_lew](https://x.com/jerrod_lew/status/1924934440486371589)
+- **Prompt:**  an opera singer singing on stage.
+- **Video:** 
+
+
+https://github.com/user-attachments/assets/58274824-a51a-4f35-b176-1d766defeaaf
 
 
