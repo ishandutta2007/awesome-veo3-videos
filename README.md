@@ -121,12 +121,25 @@ https://github.com/user-attachments/assets/5c67ec2c-b8cf-4f1c-bdfc-3f933291cc79
 
 ---
 
-### Case 11
+### Case 12
 - **Source:** [@jerrod_lew](https://x.com/jerrod_lew/status/1924934440486371589)
 - **Prompt:**  an opera singer singing on stage.
 - **Video:** 
 
 
 https://github.com/user-attachments/assets/58274824-a51a-4f35-b176-1d766defeaaf
+
+---
+
+### Case 13
+- **Source:** [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1925098318776172849)
+- **Prompt:**  A humanoid koala in stylish streetwear steps into a neon-lit urban dance stage to battle another breakdancing koala. As the hip-hop track kicks in, the two koalas start a wild dance-off—spinning, locking, popping, and head-spinning in sync with the beat.
+The music directly drives their movement, with every bass hit triggering exaggerated, stylized animation. During beat drops, the camera cuts to slow-motion close-ups: fur sways mid-spin, claws strike poses, eyes focused with intensity.
+The environment is full of urban flavor: graffiti walls, flashing lights, and a crowd of other animals cheering wildly. It’s hilarious, dynamic, and full of dance battle energy—like Step Up, but with koalas.
+- **Video:** 
+
+
+https://github.com/user-attachments/assets/fbdb0cc3-38d2-4a7d-8577-50c737b213e9
+
 
 
