@@ -165,5 +165,17 @@ https://github.com/user-attachments/assets/8641851e-9a97-447c-9196-22ca25b57a51
 https://github.com/user-attachments/assets/ce389508-3aea-4f3f-81af-295649af6509
 
 
+---
+
+### Case 16
+- **Source:** [@venturetwins](https://x.com/venturetwins/status/1925046014689608146)
+- **Prompt:**  asmr creator typing on a noisy keyboard and then looking up and blowing into the microphone as she talks
+- **Video:** 
+
+https://github.com/user-attachments/assets/4a054607-7a43-4c4f-93f8-e52d11f35fed
+
+
+
+
 
 
