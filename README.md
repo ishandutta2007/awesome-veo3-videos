@@ -154,3 +154,16 @@ https://github.com/user-attachments/assets/fbdb0cc3-38d2-4a7d-8577-50c737b213e9
 https://github.com/user-attachments/assets/8641851e-9a97-447c-9196-22ca25b57a51
 
 
+---
+
+### Case 15
+- **Source:** [@HonestBlogging](https://x.com/HonestBlogging/status/1925044948891549909)
+- **Prompt:**  A college professor doing a class on Gen Z slang and the video pans over to all the boomers taking notes and seeming super interested
+- **Video:** 
+
+
+https://github.com/user-attachments/assets/ce389508-3aea-4f3f-81af-295649af6509
+
+
+
+
