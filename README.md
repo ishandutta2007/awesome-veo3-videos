@@ -142,4 +142,15 @@ The environment is full of urban flavor: graffiti walls, flashing lights, and a 
 https://github.com/user-attachments/assets/fbdb0cc3-38d2-4a7d-8577-50c737b213e9
 
 
+---
+
+### Case 14
+- **Source:** [@nmatares](https://x.com/nmatares/status/1925198944029864388)
+- **Prompt:**  a giraffe pulls a wheelie on a dirt bike in the streets of NYC
+- **Video:** 
+
+
+
+https://github.com/user-attachments/assets/8641851e-9a97-447c-9196-22ca25b57a51
+
 
