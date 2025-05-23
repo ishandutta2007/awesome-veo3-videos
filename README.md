@@ -176,6 +176,17 @@ https://github.com/user-attachments/assets/4a054607-7a43-4c4f-93f8-e52d11f35fed
 
 
 
+---
+
+### Case 17
+- **Source:** [@HashemGhaili](https://x.com/HashemGhaili/status/1925332319604257203)
+- **Prompt:**  
+- **Video:** 
+
+https://github.com/user-attachments/assets/d27a1821-c59d-4b2b-bd6d-6cb08b014832
+
+
+
 
 
 
