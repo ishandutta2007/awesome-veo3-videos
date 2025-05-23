@@ -186,6 +186,17 @@ https://github.com/user-attachments/assets/4a054607-7a43-4c4f-93f8-e52d11f35fed
 https://github.com/user-attachments/assets/d27a1821-c59d-4b2b-bd6d-6cb08b014832
 
 
+---
+
+### Case 18
+- **Source:** [@hq4ai](https://x.com/hq4ai/status/1925499957622067289)
+- **Prompt:**  
+- **Video:**
+- 
+
+https://github.com/user-attachments/assets/62e2a66f-2445-43ca-a7f9-464b88824920
+
+
 
 
 
